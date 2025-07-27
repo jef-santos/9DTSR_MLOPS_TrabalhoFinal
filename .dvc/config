@@ -1,6 +1,0 @@
-[core]
-    autostage = true
-    remote = origin
-['remote "origin"']
-    url = s3://dvc
-    endpointurl = https://dagshub.com/jef-santos/9DTSR_MLOPS_TrabalhoFinal.s3
