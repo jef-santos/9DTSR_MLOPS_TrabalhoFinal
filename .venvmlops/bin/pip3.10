@@ -1,4 +1,4 @@
-#!/Users/jeffsantos/Desktop/9DTSR_MLOPS_TrabalhoFinal/9DTSR_MLOPS_TrabalhoFinal/.venvmlops/bin/python
+#!/Users/jeffsantos/Desktop/9DTSR_MLOPS_TrabalhoFinal/9DTSR_MLOPS_TrabalhoFinal/.venvmlops/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
